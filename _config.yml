@@ -3,6 +3,7 @@
 name: DataHub
 #description: DataHub
 #url: "https://rocex.github.io"
+title: DataHub
 markdown: kramdown
 highlighter: rouge
 theme: jekyll-theme-leap-day
