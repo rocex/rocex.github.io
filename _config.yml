@@ -1,7 +1,7 @@
 #jekyll configuration
 
 name: DataHub
-description: DataHub
+#description: DataHub
 #url: "https://rocex.github.io"
 markdown: kramdown
 highlighter: rouge
